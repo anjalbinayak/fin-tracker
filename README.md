@@ -1,1 +1,4 @@
-### An App for tracking finances
+### Fin Tracker
+
+
+An App For Tracking Finance
